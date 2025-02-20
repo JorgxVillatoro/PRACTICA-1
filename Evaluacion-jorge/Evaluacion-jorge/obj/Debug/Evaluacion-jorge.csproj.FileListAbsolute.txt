@@ -1,0 +1,10 @@
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\bin\Debug\Evaluacion-jorge.exe.config
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\bin\Debug\Evaluacion-jorge.exe
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\bin\Debug\Evaluacion-jorge.pdb
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion-jorge.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion_jorge.Form1.resources
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion_jorge.Properties.Resources.resources
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion-jorge.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion-jorge.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion-jorge.exe
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\Evaluacion-jorge\Evaluacion-jorge\obj\Debug\Evaluacion-jorge.pdb
