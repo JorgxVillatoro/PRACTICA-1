@@ -1,0 +1,10 @@
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\bin\Debug\variables-jorge.exe.config
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\bin\Debug\variables-jorge.exe
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\bin\Debug\variables-jorge.pdb
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables-jorge.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables_jorge.Form1.resources
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables_jorge.Properties.Resources.resources
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables-jorge.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables-jorge.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables-jorge.exe
+C:\Users\villa\OneDrive\Escritorio\ARCIDES\practica6\variables-Jorge\variables-jorge\obj\Debug\variables-jorge.pdb
