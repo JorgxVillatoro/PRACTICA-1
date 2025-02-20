@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\bin\Debug\ejercicio 2.3 ordenador.exe.config
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\bin\Debug\ejercicio 2.3 ordenador.exe
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\bin\Debug\ejercicio 2.3 ordenador.pdb
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\obj\Debug\ejercicio 2.3 ordenador.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\obj\Debug\ejercicio 2.3 ordenador.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\obj\Debug\ejercicio 2.3 ordenador.exe
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\ejercicio 2.3 ordenador\ejercicio 2.3 ordenador\obj\Debug\ejercicio 2.3 ordenador.pdb
