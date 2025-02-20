@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\bin\Debug\Persona-5069722.exe.config
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\bin\Debug\Persona-5069722.exe
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\bin\Debug\Persona-5069722.pdb
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.exe
+C:\Users\MINEDUCYT\source\repos\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.pdb
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\PRACTICA1\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\PRACTICA1\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\PRACTICA1\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.exe
+C:\Users\MINEDUCYT\Desktop\mis tareas jorgee\Arcides\PRACTICA1\Persona-5069722\Persona-5069722\obj\Debug\Persona-5069722.pdb
